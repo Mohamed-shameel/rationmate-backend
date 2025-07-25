@@ -4,3 +4,6 @@
     "dev": "nodemon server.js"
   }
 }
+"scripts": {
+  "start": "node index.js"
+}
